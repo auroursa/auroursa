@@ -3,16 +3,11 @@ I'm Frudrax Cheng, a passionate individual who loves tinkering with technology a
 
 ## ✨ Interests
 
-My interests span a wide range, but I find joy in these particular activities:
-
-- Exploring new places and traveling solo.
-- Socializing on various platforms like Twitter, Mastodon, Threads, and Instagram.
-
 Photography is one of my biggest passions, and I often find myself wandering around capturing moments. I cherish my solitary adventures and find solace in exploring places alone.
 
 ## 😊 Thoughts
 
-Writing an introduction about myself has never been easy. Labels like INFP-T and a love for aimless wandering might capture some aspects of me, but I believe a person's essence is more than a collection of tags. Instead, I encourage you to follow my social media journey to truly understand who I am.
+Writing an introduction about myself has never been easy. Labels like INFP-T and a love for aimless wandering might capture some aspects of me, but I believe a person's essence is more than a collection of tags. Instead, I encourage you to follow my social media to truly understand who I am.
 
 ## 🌏 Time Zone
 Asia/CST (UTF+8)
