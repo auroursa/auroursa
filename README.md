@@ -10,8 +10,7 @@ Photography is one of my biggest passions, and I often find myself wandering aro
 Writing an introduction about myself has never been easy. Labels like INFP-T and a love for aimless wandering might capture some aspects of me, but I believe a person's essence is more than a collection of tags. Instead, I encourage you to follow my social media to truly understand who I am.
 
 ## 🌏 Time Zone
-Asia/CST (UTF+8)
-
+Asia/CST (UTC+8) 
 ## ⌨️ Worked Language
 - ✅ Java
 - ✅ HTML&CSS
