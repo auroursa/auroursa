@@ -19,13 +19,3 @@ Asia/CST (UTC+8)
 
 ## 📖 Currently Learning
 - ⏳ Python
-
-## 📫 Reach Me
-You can reach out to me on the following platforms:
-- Email: [hi@cynosura.one](mailto:hi@cynosura.one)
-- Twitter: [@astraorsa](https://twitter.com/astraorsa)
-- Mastodon: [@cynosura](https://mastodon.social/@cynosura)
-- Threads: [@skykousa](https://www.threads.net/@skykousa)
-- Instagram: [@skykousa](https://instagram.com/skykousa)
-
-Let's connect and share our experiences together! 🌟
